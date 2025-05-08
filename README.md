@@ -1,4 +1,3 @@
-# email_encryption_signing
 # Secure Email Encryption & Signing
 
 A modern, user-friendly Python application for sending and receiving encrypted, digitally signed emails. This tool ensures your emails remain private and authentic, using RSA cryptography and a beautiful graphical interface.
