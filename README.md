@@ -28,8 +28,8 @@ A modern, user-friendly Python application for sending and receiving encrypted, 
 
 ## 📦 Installation
 
-1. **Clone this repository:**
-2. **Install dependencies:**
+1. **Clone this repository**
+2. **Install dependencies**
 3.  **(First time only) Generate RSA keys:** python src/key_utils.py
-4. **Run the application:**
+4. **Run the application**
 
